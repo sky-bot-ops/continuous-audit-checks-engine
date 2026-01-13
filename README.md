@@ -17,7 +17,7 @@ This tool automates common audit checks and generates audit-ready exception outp
 Expected columns:
 - `invoice_id`  
 - `vendor`  
-- `amount`  
+- `amount` 
 - `posting_date` (YYYY-MM-DD)
 
 ## Output
