@@ -1,0 +1,6 @@
+invoice_id,vendor,amount,posting_date
+INV001,ABC Supplies,1200,2025-01-06
+INV002,,500,2025-01-05
+INV003,XYZ Corp,-200,2025-01-04
+INV003,XYZ Corp,-200,2025-01-04
+INV004,LMN Inc,1000,2025-01-11
