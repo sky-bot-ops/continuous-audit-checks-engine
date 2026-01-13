@@ -27,8 +27,7 @@ Generates an Excel exception report containing:
 - `summary` – count of exceptions per rule  
 
 ## Folder structure
-```
-text
+```text
 continuous-audit-checks-engine/
 │── src/
 │   └── watcher.py
