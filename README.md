@@ -1,11 +1,11 @@
 # Continuous Audit Checks Engine
 
-A lightweight audit analytics tool that runs rule-based checks on transaction extracts and produces an Excel-based exception report for fast and reliable review.
+A lightweight audit analytics tool that runs rule based checks on transaction extracts and produces an Excel-based exception report for fast and reliable review.
 
 ## Purpose
-Audit and compliance teams frequently receive large transaction extracts from ERP systems such as SAP and Oracle. Manual review of these datasets is time-consuming and error-prone.
+Audit and compliance teams frequently receive large transaction extracts from ERP systems such as SAP and Oracle. Manual review of these datasets is time consuming and error prone.
 
-This tool automates common audit checks and generates audit-ready exception outputs, helping teams reduce manual effort, improve consistency, and accelerate audit timelines.
+This tool automates common audit checks and generates audit ready exception outputs, helping teams reduce manual effort, improve consistency, and accelerate audit timelines.
 
 ## Checks included
 - Negative transaction amounts  
